@@ -18,3 +18,9 @@
 - Actual result: HTTP 500 with an empty response body
 - Severity: Medium
 
+## Part A
+
+- Step A4, status codes when the other user reads, changes and deletes the rating:
+  - Read: 404 Not Found
+  - Update: 400 Bad Request
+  - Delete: 400 Bad Request
