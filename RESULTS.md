@@ -17,3 +17,4 @@
 - Expected result: HTTP 400 with a JSON error message
 - Actual result: HTTP 500 with an empty response body
 - Severity: Medium
+
