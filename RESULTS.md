@@ -9,3 +9,4 @@
 - Step 0.3, status code with a token: 200
     - Available tools: Knife, Pizza cutter, Scissors
 - Step 0.4, the name of your pizza: The Dead Bolognese
+- Step 0.12, ผลการทดสอบ 3 รอบโดยไม่ใช้ Session (ไม่บังคับ): รอบที่ 1 ไม่ผ่าน (401), รอบที่ 2 ผ่าน (200), รอบที่ 3 ผ่าน (200)
